@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Void1215/JSTCSMP-WorldMap/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Void1215/JSTCSMP-WorldMap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JSTCSMP WorldMap</title>
+        <link rel="icon" href="https://imgur.com/jd6UFk4.jpg">
+    </head>
+    <head>
+        <style>
+            body {
+                background-image:
+            url("https://i.imgur.com/UFk4jZM.jpeg.png")
+        }
+        </style>
+    </head>
+    
+    <body>
+    
+    <h1 style="color:blue;font-size:500%;text-align:center;">WorldMap 2.0</h1>
+    <h2 style="font-family:system;font-size:200%;text-align:center;color:white">The rendered map of JSTCSMP</h2>
+    <h3 style="font-family:system;font-size:120%;color:white">Updates:</h3>
+    <ul>
+        <li style="color:white">Expanded a few hundred chunks in North,West, and East</li>
+        <li style="color:white">New biomes: Desert, Badlands</li>
+        <li style="color:white">+6 Villages</li>
+        <li style="color:white">+1 Ocean Monument</li>
+    </ul>
+    
+    <img src="https://imgur.com/JM8waaS.png" alt="worldmapJSTC" style="width:100%">
+    
+    <h4 style="color:white"><b>Property of 7-Justice of EHS UST</b></p>
+    
+    <p style="font-size:90%;color:white">Mapped and edited by <img src="https://imgur.com/TDdpHLp.png" alt="ラマオく" style="width:7%"><abbr title="ラマオく#4232">lamao9</abbr></p>
+    <p style="font-size:85%;color:white"><i>             "Why is there so many Dark Forests" </i> -lamao9</p>
+    
+    </body>
+</html>
