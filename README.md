@@ -1,2 +1,4 @@
-# JSTCSMPWorldMap
-The website for JSTCSMP's rendered map of the world
+# JSTCSMP World Map Repository
+The repository for the JSTCSMP's website
+
+Use the index.md in the main folder to edit the website
