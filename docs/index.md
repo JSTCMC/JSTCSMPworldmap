@@ -31,6 +31,7 @@
     
     <p style="font-size:90%;color:white">Mapped and edited by <img src="https://imgur.com/TDdpHLp.png" alt="ラマオく" style="width:7%"><abbr title="ラマオく#4232">lamao9</abbr></p>
     <p style="font-size:85%;color:white"><i>             "Why is there so many Dark Forests" </i> -lamao9</p>
+    <p style="font-size:85%;color:white"><i>             "Seed is cracked" </i> -Loomie</p>
     
     </body>
 </html>
