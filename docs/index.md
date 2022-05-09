@@ -27,11 +27,10 @@
     
     <img src="https://imgur.com/JM8waaS.png" alt="worldmapJSTC" style="width:100%">
     
-    <h4 style="color:white"><b>Property of 7-Justice of EHS UST</b></p>
+    <h4 style="color:white"><b>Property of Justice UST EHS</b></p>
     
     <p style="font-size:90%;color:white">Mapped and edited by <img src="https://imgur.com/TDdpHLp.png" alt="ラマオく" style="width:7%"><abbr title="ラマオく#4232">lamao9</abbr></p>
     <p style="font-size:85%;color:white"><i>             "Why is there so many Dark Forests" </i> -lamao9</p>
-    <p style="font-size:85%;color:white"><i>             "Seed is cracked" </i> -Loomie</p>
     
     </body>
 </html>
